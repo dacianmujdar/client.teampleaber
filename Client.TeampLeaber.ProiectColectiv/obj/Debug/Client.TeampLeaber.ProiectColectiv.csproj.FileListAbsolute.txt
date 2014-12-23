@@ -1,0 +1,63 @@
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Client.TeampLeaber.ProiectColectiv.exe.config
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Client.TeampLeaber.ProiectColectiv.exe
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Client.TeampLeaber.ProiectColectiv.pdb
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.csprojResolveAssemblyReference.cache
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.Properties.Resources.resources
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.csproj.GenerateResource.Cache
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.exe
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.pdb
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.TeampLeaber.resources
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.LoginForm.resources
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.ReligionForm.resources
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.DocumentForm.resources
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.DocumentTypeForm.resources
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.EditDocumentTypeForm.resources
+c:\users\dacian\documents\visual studio 2013\Projects\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.EditReligionForm.resources
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Client.TeampLeaber.ProiectColectiv.exe.config
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.exe
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.pdb
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Client.TeampLeaber.ProiectColectiv.exe
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Client.TeampLeaber.ProiectColectiv.pdb
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.DocumentForm.resources
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.DocumentTypeForm.resources
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.EditDocumentTypeForm.resources
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.EditReligionForm.resources
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.TeampLeaber.resources
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.LoginForm.resources
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.Properties.Resources.resources
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.ReligionForm.resources
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.csproj.GenerateResource.Cache
+C:\Users\Cristian\Downloads\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Newtonsoft.Json.dll
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Client.TeampLeaber.ProiectColectiv.exe.config
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.exe
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.pdb
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Client.TeampLeaber.ProiectColectiv.exe
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Client.TeampLeaber.ProiectColectiv.pdb
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Newtonsoft.Json.dll
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.csprojResolveAssemblyReference.cache
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.DocumentForm.resources
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.DocumentTypeForm.resources
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.EditDocumentTypeForm.resources
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.EditReligionForm.resources
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.TeampLeaber.resources
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.LoginForm.resources
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.Properties.Resources.resources
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.ReligionForm.resources
+D:\Proiecte_vlad\SEM5\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.csproj.GenerateResource.Cache
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Client.TeampLeaber.ProiectColectiv.exe.config
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.exe
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.pdb
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Client.TeampLeaber.ProiectColectiv.exe
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Client.TeampLeaber.ProiectColectiv.pdb
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.csprojResolveAssemblyReference.cache
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.DocumentForm.resources
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.DocumentTypeForm.resources
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.EditDocumentTypeForm.resources
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.EditReligionForm.resources
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.LoginForm.resources
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.Properties.Resources.resources
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.ReligionForm.resources
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.csproj.GenerateResource.Cache
+C:\Users\Dacian\Desktop\CimitireClient\Client.TeampLeaber.ProiectColectiv\Client.TeampLeaber.ProiectColectiv\obj\Debug\Client.TeampLeaber.ProiectColectiv.MainForm.resources
